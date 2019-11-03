@@ -10,5 +10,10 @@
   "license": "ISC",
   "devDependencies": {
     "typescript": "^3.6.4"
+  },
+  "dependencies": {
+    "@types/faker": "^4.1.7",
+    "@types/googlemaps": "^3.38.0",
+    "faker": "^4.1.0"
   }
 }
